@@ -1,4 +1,5 @@
 # SpringHeapdumpScan
+
 heapdump scan 批量获取存在heapdump信息泄露的站点
 
 依赖安装
@@ -12,4 +13,6 @@ pip install requests
 ```
 python SpringHeapdumpScan.py
 ```
+
+建议配合[heapdump_tool](https://github.com/wyzxxz/heapdump_tool)使用
 
