@@ -14,5 +14,5 @@ pip install requests
 python SpringHeapdumpScan.py
 ```
 
-建议配合 wyzxxz:[heapdump_tool](https://github.com/wyzxxz/heapdump_tool)使用
+建议配合 wyzxxz : [heapdump_tool](https://github.com/wyzxxz/heapdump_tool)使用
 
